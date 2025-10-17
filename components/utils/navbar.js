@@ -68,7 +68,7 @@ export default function Navbar() {
         {/* Apply Button */}
         <motion.div whileHover={{ scale: 1.05 }} whileTap={{ scale: 0.97 }}>
           <Link
-            href="/apply"
+            href="https://wa.me/2349011141113"
             className="hidden md:inline-block bg-[#39B44A] text-white px-5 py-2 rounded-full font-semibold hover:bg-[#2E9C3D] transition"
           >
             Apply Now
@@ -109,7 +109,7 @@ export default function Navbar() {
           )
         })}
         <Link
-          href="/apply"
+          href="https://wa.me/2349011141113"
           className="block bg-[#39B44A] text-center text-white px-5 py-2 rounded-full font-semibold hover:bg-[#2E9C3D] transition"
           onClick={() => setOpen(false)}
         >

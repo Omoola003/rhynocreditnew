@@ -8,7 +8,7 @@ export default function ContactFormSection() {
   return (
     <section
       id="contact-form"
-      className="w-[80%] md:w-[75%] mx-auto py-12 bg-[#D8E3E2] rounded-3xl"
+      className="w-[80%] md:w-[75%] mx-auto py-12 bg-[#D8E3E2] rounded-3xl mt-10 mb-20"
     >
       <div className="w-[90%] md:w-[60%] mx-auto text-center">
         {/* Section Header */}

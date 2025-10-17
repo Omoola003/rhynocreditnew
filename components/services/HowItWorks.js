@@ -20,7 +20,7 @@ const steps = [
 
 export default function HowItWorks() {
   return (
-    <section className="relative py-24 bg-white">
+    <section className="relative py-24 bg-white mt-10 mb-10">
       <div className="w-[90%] md:w-[85%] mx-auto text-center">
         {/* Section Title */}
         <motion.h2

@@ -5,7 +5,7 @@ import { Phone, Mail, MapPin, Send } from 'lucide-react'
 
 export default function ContactSection() {
   return (
-    <section className="bg-white py-12 w-[80%] md:w-[75%] mx-auto">
+    <section className="bg-white py-12 w-[80%] md:w-[75%] mx-auto mt-10 mb-10 rounded-2xl">
       {/* Header */}
       <div className="text-center mb-4 px-4">
         <motion.h2

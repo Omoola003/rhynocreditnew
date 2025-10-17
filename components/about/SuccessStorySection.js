@@ -32,7 +32,7 @@ export default function SuccessStorySection() {
           <div className="flex flex-col sm:flex-row items-center md:items-center gap-6 md:gap-8">
             {/* Primary CTA */}
             <Link
-              href="/apply"
+              href="https://wa.me/2349011141113"
               className="inline-flex items-center justify-between bg-[#39B44A] rounded-full shadow-[0_4px_8px_rgba(0,0,0,0.1)] px-8 py-4 w-[260px] hover:shadow-lg transition-all duration-300 group"
             >
               <span className="text-white font-semibold tracking-wide">

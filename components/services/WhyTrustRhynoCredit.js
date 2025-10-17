@@ -28,7 +28,7 @@ export default function WhyTrustRhynoCredit() {
   return (
     <section className="relative">
       {/* Top Title Section (White Background) */}
-      <div className="bg-white py-20">
+      <div className="w-[90%] md:w-[85%] mx-auto bg-white py-20 rounded-t-2xl">
         <div className="w-[90%] md:w-[85%] mx-auto text-center">
           <motion.h2
             initial={{ opacity: 0, y: 20 }}
@@ -42,7 +42,7 @@ export default function WhyTrustRhynoCredit() {
       </div>
 
       {/* Gradient Section with Cards */}
-      <div className="w-[90%] md:w-[85%] mx-auto bg-gradient-to-br from-[#FFFFFF] via-[#ECEEF2] to-[#E9EBEF] py-24 rounded-2xl">
+      <div className="w-[90%] md:w-[85%] mx-auto bg-gradient-to-br from-[#FFFFFF] via-[#ECEEF2] to-[#E9EBEF] py-24 rounded-2xl mt-[-30px]">
         <div className="w-[90%] md:w-[85%] mx-auto space-y-16">
           {trustReasons.map((reason, index) => (
             <motion.div

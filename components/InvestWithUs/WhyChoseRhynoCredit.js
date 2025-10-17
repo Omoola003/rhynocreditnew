@@ -31,7 +31,7 @@ export default function WhyChooseRhynoCredit() {
           </p>
 
           <Link
-            href="/apply"
+            href="https://wa.me/2349011141113"
             className="inline-flex items-center justify-items-stretch bg-[#39B44A] rounded-full shadow-[0_4px_8px_rgba(0,0,0,0.1)] px-8 py-4 w-[260px] hover:shadow-lg transition duration-300 group"
           >
             <span className="text-white font-semibold tracking-wide justify-end">

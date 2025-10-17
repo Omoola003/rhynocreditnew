@@ -35,10 +35,10 @@ export default function RhynoDifferenceSection() {
     <section className="w-full py-12 px-6 md:px-12">
       {/* Section Heading - no background */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center py-12">
-        <h2 className="text-3xl font-bold text-gray-900 mb-2">
+        <h2 className="text-3xl font-bold text-gray-900 dark:text-[#39B44A] mb-2">
           What Makes Us Different?
         </h2>
-        <p className="text-lg text-gray-700 font-medium">
+        <p className="text-lg text-gray-700 dark:text-white font-medium">
           The RhynoCredit Difference
         </p>
       </div>

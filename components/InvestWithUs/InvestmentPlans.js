@@ -36,7 +36,7 @@ const plans = [
 
 export default function InvestmentPlans() {
   return (
-    <section className="relative w-[90%] md:w-[85%] mx-auto py-24 bg-white">
+    <section className="relative w-[90%] md:w-[85%] mx-auto py-24 bg-white mt-10 mb-10 rounded-2xl">
       <div className="w-full mx-auto text-center">
         {/* Section Title */}
         <motion.h2

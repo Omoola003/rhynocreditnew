@@ -26,7 +26,7 @@ export default function CallToActionSection() {
         </h2>
 
         <Link
-          href="/apply"
+          href="https://wa.me/2349011141113"
           className="inline-flex items-center justify-between bg-[#39B44A] text-white rounded-full shadow-[0_4px_8px_rgba(0,0,0,0.15)] px-6 py-3 w-fit font-medium hover:opacity-90 transition"
         >
           <span>Apply for a loan</span>
