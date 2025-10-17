@@ -5,6 +5,7 @@ import { Menu, X } from 'lucide-react'
 import { useState } from 'react'
 import { usePathname } from 'next/navigation'
 import Link from 'next/link'
+import Image from 'next/image'
 
 export default function Navbar() {
   const [open, setOpen] = useState(false)
@@ -28,9 +29,12 @@ export default function Navbar() {
       >
         {/* Logo */}
         <Link href="/" className="flex items-center space-x-2">
-          <img
+          <Image
             src="/images/RhynoCreditLogo.svg"
             alt="RhynoCredit Logo"
+            width={150}
+            height={40}
+            priority
             className="h-10 w-auto"
           />
         </Link>

@@ -25,7 +25,7 @@ export default function FAQCTA() {
           </h2>
 
           <p className="text-gray-700 text-lg mb-10 leading-relaxed max-w-lg mx-auto md:mx-0">
-            We're here to help! If you have any further questions or need assistance, don't hesitate to reach out to our friendly team.
+            We&apos;re here to help! If you have any further questions or need assistance, don&apos;t hesitate to reach out to our friendly team.
           </p>
 
           {/* CTAs */}

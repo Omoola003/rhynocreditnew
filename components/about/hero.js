@@ -42,7 +42,7 @@ export default function AboutHeroSection() {
         </h1>
 
         <p className="text-gray-500 leading-relaxed max-w-xl">
-          At RhynoCredit, we're building a financial ecosystem rooted in resilience, trust, and empowerment, providing the support you need to thrive.
+          At RhynoCredit, we&apos;re building a financial ecosystem rooted in resilience, trust, and empowerment, providing the support you need to thrive.
         </p>
 
         <Link

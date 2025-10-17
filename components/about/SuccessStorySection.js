@@ -25,7 +25,7 @@ export default function SuccessStorySection() {
           </h2>
 
           <p className="text-gray-700 text-lg mb-10 leading-relaxed max-w-lg mx-auto md:mx-0">
-            Let's build your future together. Explore our loan products or get in touch with our team.
+            Let&apos;s build your future together. Explore our loan products or get in touch with our team.
           </p>
 
           {/* CTAs */}
@@ -49,7 +49,10 @@ export default function SuccessStorySection() {
               className="flex items-center gap-3 text-[#39B44A] font-semibold text-lg hover:text-black transition-colors duration-300"
             >
               Contact Us
-              <ArrowUpRight size={20} className="transition-transform duration-300 group-hover:translate-x-1" />
+              <ArrowUpRight
+                size={20}
+                className="transition-transform duration-300 group-hover:translate-x-1"
+              />
             </Link>
           </div>
         </motion.div>
