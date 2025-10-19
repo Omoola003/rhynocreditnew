@@ -4,6 +4,7 @@ import StoryMission from "@/components/about/storyMission";
 import RhynoDifferenceSection from "@/components/about/RhynoDifferenceSection";
 import RegulatoryCommitment from "@/components/about/RegulatoryCommitment";
 import SuccessStorySection from "@/components/about/SuccessStorySection";
+import MissionSection from "@/components/about/founder";
 
 export const metadata = {
   title: "About Us | RhynoCredit — Your Partner in Financial Growth",
@@ -51,6 +52,7 @@ export default function About() {
       <AboutHeroSection />
       <StoryMission />
       <CoreValues />
+      <MissionSection />
       <RhynoDifferenceSection />
       <RegulatoryCommitment />
       <SuccessStorySection />

@@ -25,7 +25,7 @@ export default function FeaturesSection() {
           <h2 className="text-3xl md:text-4xl font-bold text-[#052D1B] dark:text-[#39B44A] leading-snug mb-4">
             Why Choose <br /> Rhyno Credit
           </h2>
-          <p className="text-gray-600 dark:text-gray-300 text-base md:text-lg max-w-md leading-relaxed">
+          <p className="text-gray-600 dark:text-black text-base md:text-lg max-w-md leading-relaxed">
             Built on trust, speed, and customer satisfaction — Rhyno Credit ensures
             you get secure, accessible, and efficient financial solutions that
             help you move faster.
@@ -38,7 +38,7 @@ export default function FeaturesSection() {
             <motion.div
               key={feature.title}
               whileHover={{ x: 6 }}
-              className="flex items-center text-[#010B07] dark:text-gray-200 font-semibold text-lg cursor-pointer group"
+              className="flex items-center text-[#010B07] dark:text-black font-semibold text-lg cursor-pointer group"
             >
               <div className="relative before:absolute before:left-0 before:top-1/2 before:-translate-y-1/2 before:w-[2px] before:h-6 before:bg-[#39B44A] before:opacity-0 group-hover:opacity-100 before:transition-all before:duration-300 pl-4">
                 <span className="group-hover:text-[#39B44A] transition-colors duration-300">
@@ -47,7 +47,7 @@ export default function FeaturesSection() {
               </div>
               <ChevronRight
                 size={20}
-                className="ml-2 text-gray-400 dark:text-gray-500 group-hover:text-[#39B44A] transition-colors duration-200"
+                className="ml-2 text-gray-400 dark:text-black group-hover:text-[#39B44A] transition-colors duration-200"
               />
             </motion.div>
           ))}

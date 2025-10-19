@@ -41,17 +41,27 @@ export default function MissionSection() {
         viewport={{ once: true }}
         className="space-y-6"
       >
-        <h2 className="text-3xl md:text-4xl font-bold text-[#052D1B] leading-snug">
-          Discover the mission & <br /> story behind our company
-        </h2>
+          <h2 className="text-3xl md:text-4xl font-bold text-[#052D1B] leading-snug">
+            Discover the mission & <br /> story behind our company
+          </h2>
 
-        <p className="text-gray-700 leading-relaxed max-w-md">
-          Rhyno Credit was founded with one clear mission — to make financial
-          support simple, transparent, and within reach for everyone. We believe
-          access to credit should empower dreams, not complicate them. Through
-          innovation and trust, we’re redefining how individuals and businesses
-          experience lending in today’s world.
-        </p>
+          <p className="text-gray-700 leading-relaxed max-w-md">
+            Rhyno Credit was founded with one clear mission — to make financial
+            support simple, transparent, and within reach for everyone. We believe
+            access to credit should empower dreams, not complicate them. Through
+            innovation, trust, and deep understanding of local realities, we’re
+            redefining how individuals and small businesses experience lending in
+            today’s world.
+          </p>
+
+          <p className="text-gray-700 leading-relaxed max-w-md">
+            Our story is rooted in the belief that financial growth begins with
+            accessibility and confidence. By bridging the gap between opportunity
+            and financing, Rhyno Credit stands as a dependable partner for
+            Nigerians and business owners seeking to grow with assurance. We lead
+            with empathy, efficiency, and integrity — ensuring every client feels
+            seen, supported, and secure.
+          </p>
 
         <Link
           href="/about"

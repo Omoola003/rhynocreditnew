@@ -34,12 +34,12 @@ export default function HeroSection() {
         transition={{ duration: 0.6, delay: 0.1 }}
         className="flex flex-col space-y-6"
       >
-        <h1 className="text-4xl md:text-5xl font-bold leading-tight text-[#010B07] dark:text-white">
+        <h1 className="text-4xl md:text-5xl font-bold leading-tight text-[#010B07] dark:text-[#052D1B]">
           Your Ambition,<br /> 
           <span className="text-[#052D1B] dark:text-[#39B44A]">Financed</span>
         </h1>
 
-        <p className="text-gray-600 dark:text-gray-300 max-w-sm">
+        <p className="text-gray-600 dark:text-black max-w-sm">
           Fast, flexible loans designed for your growth. From launching a startup
           to upgrading your life, we provide the trusted support you need.
         </p>

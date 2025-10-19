@@ -44,7 +44,7 @@ export default function AboutHeroSection() {
           </span>
         </h1>
 
-        <p className="text-gray-600 dark:text-gray-300 leading-relaxed max-w-xl">
+        <p className="text-gray-600 dark:text-black leading-relaxed max-w-xl">
           At RhynoCredit, we&apos;re building a financial ecosystem rooted in
           resilience, trust, and empowerment, providing the support you need to
           thrive.
