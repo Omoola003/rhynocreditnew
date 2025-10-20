@@ -51,7 +51,7 @@ export default function AboutHeroSection() {
         </p>
 
         <Link
-          href="/apply"
+          href="/coming-soon"
           className="inline-flex items-center justify-between bg-white dark:bg-[#39B44A] rounded-full shadow-[0_4px_8px_rgba(0,0,0,0.1)] dark:shadow-[0_4px_12px_rgba(255,255,255,0.08)] px-6 py-4 w-[280px] hover:shadow-md transition"
         >
           <span className="text-[#010B07] dark:text-white font-medium">

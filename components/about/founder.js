@@ -40,11 +40,11 @@ export default function MissionSection() {
         className="space-y-5 text-center md:text-left"
       >
         <h3 className="text-2xl sm:text-3xl font-semibold text-[#052D1B]">
-          Meet the Founder — Olatunde Davids
+          Meet the Founder — Sulaimon Olatunde Davids
         </h3>
 
         <p className="text-gray-700 leading-relaxed text-base sm:text-lg">
-          Olatunde Davids blends operational discipline with customer-focused
+          Sulaimon Olatunde Davids blends operational discipline with customer-focused
           solutions, bringing a wealth of experience from advertising,
           international client services, and structured court administration. He
           combines financial acumen, people awareness, and technical expertise to

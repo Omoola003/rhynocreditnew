@@ -123,7 +123,7 @@ export default function LoanProducts() {
 
                 {/* CTA */}
                 <Link
-                  href="https://wa.me/2349011141113"
+                  href="/coming-soon"
                   className="mt-3 inline-flex items-center justify-between bg-black text-white rounded-full px-4 py-2 w-full transition hover:bg-[#39B44A]"
                 >
                   <span className="font-medium text-sm">{product.button}</span>

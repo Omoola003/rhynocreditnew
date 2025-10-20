@@ -39,7 +39,7 @@ export default function RegulatoryCommitment() {
           </p>
 
           <Link
-            href="https://wa.me/2349011141113"
+            href="/coming-soon"
             className="inline-flex items-center justify-center md:justify-between bg-[#39B44A] rounded-full shadow-md px-6 py-4 w-full sm:w-[240px] mx-auto md:mx-0 text-white font-semibold hover:shadow-lg transition"
           >
             Apply for a loan

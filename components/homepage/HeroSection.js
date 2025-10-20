@@ -45,7 +45,7 @@ export default function HeroSection() {
         </p>
 
         <Link
-          href="https://wa.me/2349011141113"
+          href="/coming-soon"
           className="inline-flex items-center justify-between bg-white dark:bg-[#39B44A] rounded-full shadow-[0_4px_8px_rgba(0,0,0,0.1)] dark:shadow-[0_4px_8px_rgba(255,255,255,0.1)] px-6 py-4 w-3/4 hover:shadow-md transition"
         >
           <span className="text-[#010B07] dark:text-white font-medium">

@@ -49,7 +49,7 @@ export default function FAQPageHero() {
         <div className="flex flex-col sm:flex-row items-center gap-6 md:gap-8">
           {/* Primary CTA */}
           <Link
-            href="https://wa.me/2349011141113"
+            href="/coming-soon"
             className="inline-flex items-center justify-between bg-[#39B44A] dark:bg-white rounded-full shadow-[0_4px_8px_rgba(0,0,0,0.1)] dark:shadow-[0_4px_12px_rgba(255,255,255,0.08)] px-4 py-2 w-[260px] hover:shadow-lg transition-all duration-300 group"
           >
             <span className="text-white dark:text-[#010B07] font-semibold tracking-wide">

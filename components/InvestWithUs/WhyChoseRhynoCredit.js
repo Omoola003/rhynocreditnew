@@ -42,7 +42,7 @@ export default function WhyChooseRhynoCredit() {
           </p>
 
           <Link
-            href="https://wa.me/2349011141113"
+            href="/coming-soon"
             className="inline-flex items-center justify-center md:justify-between bg-[#39B44A] rounded-full shadow-md px-6 py-4 w-full sm:w-[240px] text-center hover:shadow-lg transition duration-300 group"
           >
             <span className="text-white font-semibold tracking-wide">
