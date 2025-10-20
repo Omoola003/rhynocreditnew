@@ -23,7 +23,7 @@ export const metadata = {
     title: "RhynoCredit — Empowering Growth Through Smart Financing",
     description:
       "Explore flexible loan options with RhynoCredit. Fast approval, transparent terms, and funding built for individuals, startups, and businesses.",
-    url: "https://rhynocredit.vercel.app/",
+    url: "https://rhynocredit.com/",
     siteName: "RhynoCredit",
     images: [
       {
@@ -43,7 +43,7 @@ export const metadata = {
     images: ["/images/og-image.png"],
   },
   alternates: {
-    canonical: "https://rhynocredit.vercel.app/",
+    canonical: "https://rhynocredit.com/",
   },
 };
 

@@ -21,7 +21,7 @@ export const metadata = {
     title: "RhynoCredit FAQs — Everything You Need to Know",
     description:
       "Get clarity on loans, investments, and repayments with RhynoCredit’s detailed FAQ section.",
-    url: "https://rhynocredit.vercel.app/faq",
+    url: "https://rhynocredit.com/faq",
     siteName: "RhynoCredit",
     images: [
       {
@@ -41,7 +41,7 @@ export const metadata = {
     images: ["/images/og-image.png"],
   },
   alternates: {
-    canonical: "https://rhynocredit.vercel.app/faq",
+    canonical: "https://rhynocredit.com/faq",
   },
 };
 

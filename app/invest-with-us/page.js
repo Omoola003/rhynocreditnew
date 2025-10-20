@@ -21,7 +21,7 @@ export const metadata = {
     title: "Invest With RhynoCredit — Build Wealth Confidently",
     description:
       "Earn more with RhynoCredit. Safe, flexible, and transparent investment options designed to grow your future.",
-    url: "https://rhynocredit.vercel.app/invest-with-us",
+    url: "https://rhynocredit.com/invest-with-us",
     siteName: "RhynoCredit",
     images: [
       {
@@ -41,7 +41,7 @@ export const metadata = {
     images: ["/images/og-image.png"],
   },
   alternates: {
-    canonical: "https://rhynocredit.vercel.app/invest-with-us",
+    canonical: "https://rhynocredit.com/invest-with-us",
   },
 };
 

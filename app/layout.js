@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 // ✅ Global SEO Metadata
 export const metadata = {
-  metadataBase: new URL("https://rhynocredit.vercel.app"),
+  metadataBase: new URL("https://rhynocredit.com"),
   title: {
     default: "RhynoCredit — Fast, Flexible, and Secure Loans for Everyone",
     template: "%s | RhynoCredit",
@@ -38,7 +38,7 @@ export const metadata = {
   openGraph: {
     type: "website",
     locale: "en_NG",
-    url: "https://rhynocredit.vercel.app",
+    url: "https://rhynocredit.com",
     title: "RhynoCredit — Fast, Flexible, and Secure Loans for Everyone",
     description:
       "Empowering individuals and businesses with reliable financial solutions designed for growth.",
@@ -66,7 +66,7 @@ export const metadata = {
     apple: "/apple-touch-icon.png",
   },
   alternates: {
-    canonical: "https://rhynocredit.vercel.app",
+    canonical: "https://rhynocredit.com",
   },
   category: "Finance",
 };

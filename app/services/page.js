@@ -21,7 +21,7 @@ export const metadata = {
     title: "RhynoCredit Services — Loans That Fit Your Financial Goals",
     description:
       "Discover loan solutions tailored for individuals, startups, and businesses. RhynoCredit makes funding simple, transparent, and flexible.",
-    url: "https://rhynocredit.vercel.app/services",
+    url: "https://rhynocredit.com/services",
     siteName: "RhynoCredit",
     images: [
       {
@@ -41,7 +41,7 @@ export const metadata = {
     images: ["/images/og-image.png"],
   },
   alternates: {
-    canonical: "https://rhynocredit.vercel.app/services",
+    canonical: "https://rhynocredit.com/services",
   },
 };
 

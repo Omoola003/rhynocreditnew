@@ -19,7 +19,7 @@ export const metadata = {
     title: "Contact RhynoCredit — Get Financial Support and Guidance",
     description:
       "Need assistance or loan advice? Contact RhynoCredit’s friendly team today and get the help you need to achieve your financial goals.",
-    url: "https://rhynocredit.vercel.app/contact",
+    url: "https://rhynocredit.com/contact",
     siteName: "RhynoCredit",
     images: [
       {
@@ -39,7 +39,7 @@ export const metadata = {
     images: ["/images/og-image.png"],
   },
   alternates: {
-    canonical: "https://rhynocredit.vercel.app/contact",
+    canonical: "https://rhynocredit.com/contact",
   },
 };
 

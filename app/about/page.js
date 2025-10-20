@@ -22,7 +22,7 @@ export const metadata = {
     title: "About RhynoCredit — Building Financial Confidence for Everyone",
     description:
       "Discover the story behind RhynoCredit and our mission to simplify access to financial growth for individuals, startups, and businesses.",
-    url: "https://rhynocredit.vercel.app/about",
+    url: "https://rhynocredit.com/about",
     siteName: "RhynoCredit",
     images: [
       {
@@ -42,7 +42,7 @@ export const metadata = {
     images: ["/images/og-image.png"],
   },
   alternates: {
-    canonical: "https://rhynocredit.vercel.app/about",
+    canonical: "https://rhynocredit.com/about",
   },
 };
 
