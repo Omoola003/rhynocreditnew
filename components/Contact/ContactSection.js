@@ -34,7 +34,7 @@ export default function ContactSection() {
           {
             icon: <Phone className="w-8 h-8 text-[#39B44A]" />,
             title: 'Call Us',
-            detail: '+234 901 114 1113',
+            detail: '(0) 201 330 9670',
             highlight: '(Mon - Fri, 8:00 AM - 5:00 PM)',
           },
           {
@@ -46,7 +46,7 @@ export default function ContactSection() {
           {
             icon: <MapPin className="w-8 h-8 text-[#39B44A]" />,
             title: 'Visit Our Office',
-            detail: '23A, Adeola Odeku Street, Victoria Island, Lagos',
+            detail: '79/81, Akute Road Besides Big Ess Hotel, Ajayi Bus Stop , Alagbola Off Ojodu Berger, Lagos State.',
           },
         ].map((item, index) => (
           <motion.div
