@@ -39,3 +39,15 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Local environment files and secrets
+.env
+.env.*
+!.env.example
+*.key
+*.p12
+*.pfx
+
+# Local security/audit output
+npm-audit.json
+security-report*.json

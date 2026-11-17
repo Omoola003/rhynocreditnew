@@ -7,21 +7,21 @@ import { ArrowUpRight } from 'lucide-react'
 export default function AudienceSection() {
   const audiences = [
     {
-      title: 'For <br /> Startups',
+      title: 'For Startups',
       description:
         'Empowering early-stage founders with the right funding solutions to launch, scale, and thrive.',
       image: '/images/startup-team.jpg',
       icon: <ArrowUpRight size={20} />,
     },
     {
-      title: 'For Small <br /> Businesses',
+      title: 'For Small Businesses',
       description:
         'Flexible loan options that help small businesses expand operations, hire talent, and grow sustainably.',
       image: '/images/sme-meeting.jpg',
       icon: <ArrowUpRight size={20} />,
     },
     {
-      title: 'For <br /> Individuals',
+      title: 'For Individuals',
       description:
         'Access quick, secure, and affordable personal loans tailored to your unique financial needs.',
       image: '/images/individual-loan.jpg',
@@ -81,10 +81,9 @@ export default function AudienceSection() {
             {/* Blurred Bottom Overlay */}
             <div className="absolute bottom-0 left-0 right-0 backdrop-blur-lg bg-white/25 dark:bg-black/40 p-6 flex items-center justify-between">
               <div className="text-left">
-                <h3
-                  className="text-lg md:text-xl font-semibold text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.6)] leading-snug"
-                  dangerouslySetInnerHTML={{ __html: audience.title }}
-                />
+                <h3 className="text-lg md:text-xl font-semibold text-white drop-shadow-[0_2px_4px_rgba(0,0,0,0.6)] leading-snug">
+                  {audience.title}
+                </h3>
               </div>
 
               <div className="bg-[#39B44A] dark:bg-[#2EA142] p-3 rounded-full text-white shadow-md transition-transform duration-300 group-hover:rotate-45">
